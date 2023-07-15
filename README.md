@@ -25,7 +25,7 @@ Run the script with `python3 arp_spoofing.py`
 
 ## Output
 
-Notice physical/MAC address of thr gateway before running the script,
+Notice physical/MAC address of the gateway before running the script,
 
 ![before](https://github.com/Arjun4522/ARP_spoof/assets/94633408/cf125634-33ef-43f0-864a-ee503eaf0c56)
 
