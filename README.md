@@ -37,4 +37,4 @@ One can see, the gateway's MAC address(10-da-43-35-1e-79) has been modified to a
 
 ## Disclaimer
 
-The authors of this tool are not responsible for any unauthorized use or potential damage caused by the misuse of this tool. Use at your own risk.
+The author of this tool is not responsible for any unauthorized use or potential damage caused by the misuse of this tool. Use at your own risk.
