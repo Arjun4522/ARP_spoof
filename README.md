@@ -1,6 +1,6 @@
 # ARP Spoofing Tool
 
-This is an ARP spoofing tool implemented in Python using the Scapy library. This script is capable of poisoning the arp cache of the target machine, which can lead to Man-in-the-Middle(MiTM) attacks.
+This is an ARP spoofing tool implemented in Python using the Scapy library. This script is capable of poisoning the ARP cache of the target machine, which can lead to Man-in-the-Middle(MiTM) attacks.
 
 ## Prerequisites
 
