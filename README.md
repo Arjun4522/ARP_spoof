@@ -11,7 +11,7 @@ Before using this tool, make sure you have the following requirements:
 
 You can install the Scapy library by running the following command:
 
-`pip install scapy`
+`pip3 install scapy`
 
 ## Usage
 
@@ -21,7 +21,7 @@ In the code section, Modify the `target_ip` and `gateway_ip` variables in the fi
 gateway_ip = "10.0.0.1"  # IP of the gateway/router`
 
 
-Run the script with `python arp_spoofing.py`
+Run the script with `python3 arp_spoofing.py`
 
 ## Output
 
